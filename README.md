@@ -350,8 +350,4 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 
 ---
 
-## 📞 Questions?
-
-For questions about this project, please open an issue on GitHub or contact the author at your email/GitHub profile.
-
 **Happy emotion recognizing! 😊**

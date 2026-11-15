@@ -324,13 +324,7 @@ pip install -r requirements.txt
 
 ---
 
-## 👥 Team
-
-| Name | ID |
-|------|-----|
-| Rafid Rahman Sami | 2023-1-60-116 |
-| Abdullah Al Sami | 2023-2-60-147 |
-| Sumya Kawsar | 2023-3-60-168 |
+## 👥 Author
 
 **Course:** CSE366 (Artificial Intelligence)  
 **Date:** November 2026

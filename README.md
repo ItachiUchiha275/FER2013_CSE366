@@ -326,6 +326,8 @@ pip install -r requirements.txt
 
 ## 👥 Author
 
+**Abdullah Al Sami**
+
 **Course:** CSE366 (Artificial Intelligence)  
 **Date:** November 2026
 
